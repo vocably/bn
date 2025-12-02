@@ -1,0 +1,4 @@
+cinema
+movie theater
+film hall
+cinema hall
