@@ -1,0 +1,7 @@
+attack
+assault
+climb
+ascend
+raid
+mount
+charge

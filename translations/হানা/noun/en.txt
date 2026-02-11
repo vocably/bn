@@ -1,0 +1,5 @@
+attack
+raid
+assault
+strike
+incursion

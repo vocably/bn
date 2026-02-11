@@ -1,0 +1,4 @@
+capital letter
+uppercase letter
+block letter
+large letter
